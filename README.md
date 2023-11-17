@@ -24,11 +24,4 @@ This is a simple web application that provides weather forecasts for different l
    ```bash
    git clone https://github.com/your-username/weather-forecast-app.git
 
-## Project Structure 
 
-/weather-forecast-app
-│   index.html
-│   styles.css
-│   script.js
-│   README.md
-│   .gitignore
